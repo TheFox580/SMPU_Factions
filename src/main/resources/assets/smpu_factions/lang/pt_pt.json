@@ -2,6 +2,13 @@
   "item.smpu_factions.lore_berries": "Bagas de conhecimento",
   "item.smpu_factions.thorny_fruit": "Fruta Espinhosa",
   "item.smpu_factions.blooming_grapes": "Uvas florescendo",
+  "item.smpu_factions.avalore_adoption_certificate": "Certificado de adoção Avalore",
+  "item.smpu_factions.everbloom_adoption_certificate": "Certificado de adoção Everbloom",
+  "item.smpu_factions.hawthorn_adoption_certificate": "Certificado de adoção Hawthorn",
+
+  "block.smpu_factions.avalore_sign": "Tabuleta de Avalore",
+  "block.smpu_factions.everbloom_sign": "Tabuleta de Everbloom",
+  "block.smpu_factions.hawthorn_sign": "Tabuleta de Hawthorn",
 
   "creativetab.smpu_factions_tab": "SMP Unity Facções"
 }

@@ -2,6 +2,13 @@
   "item.smpu_factions.lore_berries": "Baies du savoir",
   "item.smpu_factions.thorny_fruit": "Fruits Épineux",
   "item.smpu_factions.blooming_grapes": "Raisins en fleurs",
+  "item.smpu_factions.avalore_adoption_certificate": "Certificat d'adoption d'Avalore",
+  "item.smpu_factions.everbloom_adoption_certificate": "Certificat d'adoption d'Everbloom",
+  "item.smpu_factions.hawthorn_adoption_certificate": "Certificat d'adoption d'Hawthorn",
+
+  "block.smpu_factions.avalore_sign": "Pancarte d'Avalore",
+  "block.smpu_factions.everbloom_sign": "Pancarte d'Everbloom",
+  "block.smpu_factions.hawthorn_sign": "Pancarte d'Hawthorn",
 
   "creativetab.smpu_factions_tab": "Factions de SMP Unity"
 }

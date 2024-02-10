@@ -2,6 +2,13 @@
   "item.smpu_factions.lore_berries": "Bayas de la Tradición",
   "item.smpu_factions.thorny_fruit": "Fruta Espinosa",
   "item.smpu_factions.blooming_grapes": "Uvas Florecientes",
+  "item.smpu_factions.avalore_adoption_certificate": "Certificado de adopción de Avalore",
+  "item.smpu_factions.everbloom_adoption_certificate": "Certificado de adopción de Everbloom",
+  "item.smpu_factions.hawthorn_adoption_certificate": "Certificado de adopción de Hawthorn",
+
+  "block.smpu_factions.avalore_sign": "Cartel de Avalore",
+  "block.smpu_factions.everbloom_sign": "Cartel de Everbloom",
+  "block.smpu_factions.hawthorn_sign": "Cartel de Hawthorn",
 
   "creativetab.smpu_factions_tab": "SMP Unity Facciones"
 }

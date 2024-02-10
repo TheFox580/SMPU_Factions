@@ -2,6 +2,13 @@
   "item.smpu_factions.lore_berries": "Lore Jagody",
   "item.smpu_factions.thorny_fruit": "Ciernisty owoc",
   "item.smpu_factions.blooming_grapes": "Kwitnące Winogrona",
+  "item.smpu_factions.avalore_adoption_certificate": "Świadectwo adopcji Avalore",
+  "item.smpu_factions.everbloom_adoption_certificate": "Świadectwo adopcji Everbloom",
+  "item.smpu_factions.hawthorn_adoption_certificate": "Świadectwo adopcji Hawthorn",
+
+  "block.smpu_factions.avalore_sign": "Avalore Tabliczka",
+  "block.smpu_factions.everbloom_sign": "Everbloom Tabliczka",
+  "block.smpu_factions.hawthorn_sign": "Hawthorn Tabliczka",
 
   "creativetab.smpu_factions_tab": "SMP Unity Frakcje"
 }

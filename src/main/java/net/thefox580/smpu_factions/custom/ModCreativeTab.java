@@ -20,6 +20,14 @@ public class ModCreativeTab {
                         output.accept(ModItems.LORE_BERRIES.get());
                         output.accept(ModItems.THORNY_FRUIT.get());
                         output.accept(ModItems.BLOOMING_GRAPES.get());
+
+                        output.accept(ModItems.AVALORE_SIGN.get());
+                        output.accept(ModItems.EVERBLOOM_SIGN.get());
+                        output.accept(ModItems.HAWTHORN_SIGN.get());
+
+                        output.accept(ModItems.AVALORE_ADOPTION_CERTIFICATE.get());
+                        output.accept(ModItems.EVERBLOOM_ADOPTION_CERTIFICATE.get());
+                        output.accept(ModItems.HAWTHORN_ADOPTION_CERTIFICATE.get());
                     })
                     .build());
 
