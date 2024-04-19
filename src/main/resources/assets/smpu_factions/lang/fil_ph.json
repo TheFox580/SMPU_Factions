@@ -1,14 +1,14 @@
 {
-  "item.smpu_factions.lore_berries": "Lore Berries",
+  "item.smpu_factions.ava_apple": "Ava Apple",
   "item.smpu_factions.thorny_fruit": "Matinik na Prutas",
-  "item.smpu_factions.blooming_grapes": "Namumulaklak na Ubas",
+  "item.smpu_factions.blooming_berries": "Namumulaklak na Berry",
   "item.smpu_factions.avalore_adoption_certificate": "Sertipiko ng Avalore Adoption",
   "item.smpu_factions.everbloom_adoption_certificate": "Sertipiko ng Everbloom Adoption",
   "item.smpu_factions.hawthorn_adoption_certificate": "Sertipiko ng Hawthorn Adoption",
 
-  "block.smpu_factions.avalore_sign": "Avalore Karatula",
-  "block.smpu_factions.everbloom_sign": "Everbloom Karatula",
-  "block.smpu_factions.hawthorn_sign": "Hawthorn Karatula",
+  "block.smpu_factions.avalore_sign": "Avalore Karatula (King)",
+  "block.smpu_factions.everbloom_sign": "Everbloom Karatula (Antonio)",
+  "block.smpu_factions.hawthorn_sign": "Hawthorn Karatula (Lucero)",
 
-  "creativetab.smpu_factions_tab": "SMP Unity Mga paksyon"
+  "creativetab.smpu_factions_tab": "SMPU Faction Items"
 }

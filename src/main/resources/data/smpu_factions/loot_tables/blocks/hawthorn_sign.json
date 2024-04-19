@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "smpu_factions:hawthorn_sign"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "smpu_factions:item/hawthorn_sign"
+}

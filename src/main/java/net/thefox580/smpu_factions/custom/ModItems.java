@@ -13,21 +13,21 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, SMPUFactions.MOD_ID);
 
-    public static final RegistryObject<Item> LORE_BERRIES = ITEMS.register("lore_berries",
-            () -> new Item(new Item.Properties().food(ModFood.LORE_BERRIES)));
+    public static final RegistryObject<Item> AVA_APPLE = ITEMS.register("ava_apple",
+            () -> new Item(new Item.Properties().stacksTo(16).food(ModFood.AVA_APPLE)));
 
     public static final RegistryObject<Item> THORNY_FRUIT = ITEMS.register("thorny_fruit",
-            () -> new Item(new Item.Properties().food(ModFood.THORNY_FRUIT)));
+            () -> new Item(new Item.Properties().stacksTo(16).food(ModFood.THORNY_FRUIT)));
 
-    public static final RegistryObject<Item> BLOOMING_GRAPES = ITEMS.register("blooming_grapes",
-            () -> new Item(new Item.Properties().food(ModFood.BLOOMING_GRAPES)));
+    public static final RegistryObject<Item> BLOOMING_BERRIES = ITEMS.register("blooming_berries",
+            () -> new Item(new Item.Properties().stacksTo(16).food(ModFood.BLOOMING_BERRIES)));
 
     public static final RegistryObject<Item> AVALORE_SIGN = ITEMS.register("avalore_sign",
-            () -> new SignItem(new Item.Properties().stacksTo(16), ModBlocks.AVALORE_SIGN.get(), ModBlocks.AVALORE_WALL_SIGN.get()));
+            () -> new SignItem(new Item.Properties(), ModBlocks.AVALORE_SIGN.get(), ModBlocks.AVALORE_WALL_SIGN.get()));
     public static final RegistryObject<Item> EVERBLOOM_SIGN = ITEMS.register("everbloom_sign",
-            () -> new SignItem(new Item.Properties().stacksTo(16), ModBlocks.EVERBLOOM_SIGN.get(), ModBlocks.EVERBLOOM_WALL_SIGN.get()));
+            () -> new SignItem(new Item.Properties(), ModBlocks.EVERBLOOM_SIGN.get(), ModBlocks.EVERBLOOM_WALL_SIGN.get()));
     public static final RegistryObject<Item> HAWTHORN_SIGN = ITEMS.register("hawthorn_sign",
-            () -> new SignItem(new Item.Properties().stacksTo(16), ModBlocks.HAWTHORN_SIGN.get(), ModBlocks.HAWTHORN_WALL_SIGN.get()));
+            () -> new SignItem(new Item.Properties(), ModBlocks.HAWTHORN_SIGN.get(), ModBlocks.HAWTHORN_WALL_SIGN.get()));
 
     public static final RegistryObject<Item> AVALORE_ADOPTION_CERTIFICATE = ITEMS.register("avalore_adoption_certificate",
             () -> new Item(new Item.Properties().stacksTo(1)));

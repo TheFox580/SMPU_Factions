@@ -1,14 +1,14 @@
 {
-  "item.smpu_factions.lore_berries": "Bagas de conhecimento",
+  "item.smpu_factions.ava_apple": "Maçã Ava",
   "item.smpu_factions.thorny_fruit": "Fruta Espinhosa",
-  "item.smpu_factions.blooming_grapes": "Uvas florescendo",
+  "item.smpu_factions.blooming_berries": "Bagas florescendo",
   "item.smpu_factions.avalore_adoption_certificate": "Certificado de adoção Avalore",
   "item.smpu_factions.everbloom_adoption_certificate": "Certificado de adoção Everbloom",
   "item.smpu_factions.hawthorn_adoption_certificate": "Certificado de adoção Hawthorn",
 
-  "block.smpu_factions.avalore_sign": "Tabuleta de Avalore",
-  "block.smpu_factions.everbloom_sign": "Tabuleta de Everbloom",
-  "block.smpu_factions.hawthorn_sign": "Tabuleta de Hawthorn",
+  "block.smpu_factions.avalore_sign": "Tabuleta de Avalore (King)",
+  "block.smpu_factions.everbloom_sign": "Tabuleta de Everbloom (Antonio)",
+  "block.smpu_factions.hawthorn_sign": "Tabuleta de Hawthorn (Lucero)",
 
-  "creativetab.smpu_factions_tab": "SMP Unity Facções"
+  "creativetab.smpu_factions_tab": "Itens de facções SMPU"
 }

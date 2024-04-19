@@ -14,12 +14,12 @@ public class ModCreativeTab {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, SMPUFactions.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> SMPU_FACTIONS_TAB = CREATIVE_TAB.register("smpu_factions_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.LORE_BERRIES.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.AVA_APPLE.get()))
                     .title(Component.translatable("creativetab.smpu_factions_tab"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.LORE_BERRIES.get());
+                        output.accept(ModItems.AVA_APPLE.get());
                         output.accept(ModItems.THORNY_FRUIT.get());
-                        output.accept(ModItems.BLOOMING_GRAPES.get());
+                        output.accept(ModItems.BLOOMING_BERRIES.get());
 
                         output.accept(ModItems.AVALORE_SIGN.get());
                         output.accept(ModItems.EVERBLOOM_SIGN.get());
